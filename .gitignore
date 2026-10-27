@@ -1,0 +1,14 @@
+*.class
+**/target/
+**/build/
+**/out/
+**/bin/
+.idea/
+*.iml
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+Contact.txt
+contacts.txt
